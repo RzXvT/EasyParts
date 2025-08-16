@@ -1,28 +1,3 @@
-#!/usr/bin/env python3
-"""
-GameParts Launcher — Parallel Downloader with Pause/Resume & Auto-Extract
-
-Features
-- Modern PySide6 UI (dark-ish look using Qt palettes)
-- Add multiple part URLs (paste list or add one-by-one)
-- Parallel downloads with configurable concurrency
-- Per-file progress + overall progress
-- Pause / Resume / Cancel
-- Resume on restart (Range requests + .part temp files)
-- Auto-extract multi-part archives (.zip/.7z/.rar, etc.) via patool/7z/unrar
-- Option to delete parts after successful extraction
-
-Requirements
-  pip install PySide6 requests patool
-
-Additionally, install a backend extractor:
-  - Windows: install 7-Zip (adds 7z.exe) and/or WinRAR (unrar.exe) and ensure they are in PATH
-  - macOS: brew install p7zip unrar
-  - Linux: sudo apt-get install p7zip-full unrar (or distro equivalent)
-
-Run
-  python gameparts_launcher.py
-"""
 from __future__ import annotations
 
 import os
@@ -712,3 +687,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
