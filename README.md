@@ -16,4 +16,4 @@ Fast, reliable, and hassle‑free so you spend more time playing, not unpacking.
 
 ## 📸 Screenshots
 <!-- Add screenshots or GIFs of your app in action -->
-![Screenshot Placeholder](https://i.imgur.com/dfJSA0h.png)
+![Screenshot Placeholder](https://i.imgur.com/0H95MAI.png)
