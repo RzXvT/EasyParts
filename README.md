@@ -17,10 +17,3 @@ Fast, reliable, and hassle‑free so you spend more time playing, not unpacking.
 ## 📸 Screenshots
 <!-- Add screenshots or GIFs of your app in action -->
 ![Screenshot Placeholder](https://i.imgur.com/dfJSA0h.png)
-
----
-
-## 🚀 Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YourUsername/EasyParts.git
